@@ -38,3 +38,7 @@ puts index
 for taco in tacos
     puts taco
 end
+
+tacos.each do |taco|
+    puts taco
+end
